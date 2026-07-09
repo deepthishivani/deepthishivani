@@ -1,99 +1,49 @@
-<h1 align="center">Hi 👋, I'm Deepthi Shivani</h1>
-<h3 align="center">B.Tech Computer Science Student | Software Engineering | AI & Machine Learning | Data Analytics</h3>
+# Hey, I'm Deepthi 👋
 
-<p align="center">
-Building software, exploring AI, and solving real-world problems through code.
-</p>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 B.Tech CSE @ SRM Institute of Science and Technology
-- 💻 Interested in **Software Engineering**, **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**
-- ☕ Primarily work with **Java**, **Python**, and **C++**
-- 🧠 Currently learning **Data Structures & Algorithms**, **Operating Systems**, **Machine Learning**, and **AI**
-- 🚀 Building projects that combine software engineering with data-driven solutions
-- 📍 Chennai, India
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-- Java
-- Python
-- C++
-- C
-- SQL
-
-### AI / ML & Data Science
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-- Plotly
-- Data Analysis
-- Machine Learning
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
-
----
-
-## 🚀 Featured Projects
-
-### 🔍 Search Engine
-High-performance Java search engine featuring inverted indexing, Trie autocomplete, BM25/TF-IDF ranking, and concurrent indexing.
-
-### 💻 Operating System Simulator
-Java simulator implementing CPU Scheduling, Page Replacement Algorithms, Banker's Algorithm, and process management concepts.
-
-### 📊 Crime Pattern Analysis Dashboard
-Python-based analytical dashboard with interactive visualizations, trend analysis, and exploratory data analysis.
-
-### 🎵 Spotify Data Analysis Dashboard
-Analyzed 586,000+ Spotify tracks using Python to uncover listening trends and music insights.
-
-### 🤖 Titanic Survival Prediction
-Machine Learning project using Python and Scikit-Learn to predict passenger survival on the Titanic dataset.
-
-### 🏨 Hostel Complaint Management System
-Multi-file C++ OOP application with authentication, complaint tracking, analytics, and persistent storage.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deepthishivani&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepthishivani&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepthishivani&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+**B.Tech CSE Student** @ SRMIST Kattankulatham | Building Systems & Solving Problems | Preparing for Google STEP Internship
 
 ---
 
 ## 🎯 Currently Working On
-
-- ✅ Striver A2Z DSA Sheet
-- 🔍 Java Search Engine
-- 🤖 AI & Machine Learning
-- 📊 Data Analytics Projects
-- 🌍 Open Source Contributions
+- **Data Structures & Algorithms** — Deep-diving into DSA fundamentals (Core DSA track)
+- **STEP Interview Prep** — Mastering Arrays, Strings, Linked Lists, HashMaps, Two-Pointers, Sliding Window, Binary Search, and Recursion
+- **LeetCode & Striver Problems** — Targeting 100-150 quality problems across STEP scope
 
 ---
 
-## 📫 Connect
+## 🛠 Tech Stack
+**Languages:** Java | Python | C++ | SQL  
+**Specializations:** Data Structures & Algorithms | Systems Design | Data Analysis  
+**Tools & Frameworks:** Apache Spark | Pandas | NumPy | scikit-learn | Git | Jupyter
 
-- GitHub: https://github.com/deepthishivani
-- Email: deepthishivani@gmail.com
+---
+
+## 📁 Projects
+
+| Project | Tech | What It Does |
+|---------|------|-------------|
+| **[OS-Simulator](https://github.com/deepthishivani/OS-Simulator)** | Java | Full operating system simulator with CPU scheduling (FCFS, SJF, RR), memory management (page replacement), and Banker's Algorithm |
+| **[Spotify-Data-Analysis-Dashboard](https://github.com/deepthishivani/spotify-data-analysis-dashboard)** | Python, Pandas, Matplotlib | Exploratory data analysis on 586K+ tracks — trends, genre analysis, and 8 publication-quality visualizations |
+| **[Titanic-Survival-Prediction](https://github.com/deepthishivani/Titanic-Survival-Prediction)** | Python, scikit-learn | ML classification model predicting passenger survival with feature engineering and model evaluation |
+| **[Hostel-CMS-CPP](https://github.com/deepthishivani/Hostel-CMS-CPP)** | C++ | Complaint management system for hostel operations — team project with structured database design |
+| **[Search-Engine](https://github.com/deepthishivani/search-engine)** | Java | Information retrieval engine with indexing and ranking algorithms |
+| **[Crime-Pattern-Analysis-Dashboard](https://github.com/deepthishivani/Crime-Pattern-Analysis-Dashboard)** | Python, Data Visualization | Analysis and visualization of crime patterns for actionable insights |
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepthishivani&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+## 💡 What I'm Learning
+Building strong fundamentals in DSA and systems thinking. Interested in how scalable systems work, from CPU scheduling to distributed databases. Love solving algorithmic problems and understanding trade-offs in software design.
+
+---
+
+## 📬 Let's Connect
+**Email:** [deepthishivani.dev@gmail.com](mailto:deepthishivani.dev@gmail.com)
+
+---
+
+*Open to internship opportunities and technical discussions. Check out my projects — they tell the story better than words.*
