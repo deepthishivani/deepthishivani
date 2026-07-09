@@ -1,6 +1,6 @@
 # Hey, I'm Deepthi 👋
 
-**B.Tech CSE Student** @ SRMIST Kattankulatham | Building Systems & Solving Problems | Preparing for Google STEP Internship
+**B.Tech CSE Student** @ SRM Institute of Science and Technology (SRMIST) | Building Systems & Solving Problems | Preparing for Google STEP Internship
 
 ---
 
