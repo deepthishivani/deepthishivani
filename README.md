@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepthi Shivani</h1>
-<h3 align="center">B.Tech Computer Science Student | Software Engineering | Data Analytics</h3>
+<h3 align="center">B.Tech Computer Science Student | Software Engineering | AI & Machine Learning | Data Analytics</h3>
 
 <p align="center">
-Building software, solving problems, and constantly learning.
+Building software, exploring AI, and solving real-world problems through code.
 </p>
 
 ---
@@ -10,10 +10,10 @@ Building software, solving problems, and constantly learning.
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE @ SRM Institute of Science and Technology
-- 💻 Interested in Software Engineering, Data Analytics, and Machine Learning
+- 💻 Interested in **Software Engineering**, **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**
 - ☕ Primarily work with **Java**, **Python**, and **C++**
-- 🌱 Currently learning **Data Structures & Algorithms**, **Operating Systems**, and **Machine Learning**
-- 🚀 Building projects that solve real-world problems
+- 🧠 Currently learning **Data Structures & Algorithms**, **Operating Systems**, **Machine Learning**, and **AI**
+- 🚀 Building projects that combine software engineering with data-driven solutions
 - 📍 Chennai, India
 
 ---
@@ -27,39 +27,43 @@ Building software, solving problems, and constantly learning.
 - C
 - SQL
 
-### Libraries & Tools
+### AI / ML & Data Science
 - Pandas
 - NumPy
+- Scikit-Learn
 - Matplotlib
 - Plotly
-- Scikit-Learn
+- Data Analysis
+- Machine Learning
+
+### Tools
 - Git
 - GitHub
-- Jupyter Notebook
 - VS Code
+- Jupyter Notebook
+- Google Colab
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔍 Search Engine
-High-performance Java search engine featuring inverted indexing, Trie autocomplete, TF-IDF/BM25 ranking, and concurrent indexing.
+High-performance Java search engine featuring inverted indexing, Trie autocomplete, BM25/TF-IDF ranking, and concurrent indexing.
 
 ### 💻 Operating System Simulator
-Java-based simulator implementing:
-- CPU Scheduling
-- Page Replacement
-- Banker's Algorithm
-- Process Scheduling
+Java simulator implementing CPU Scheduling, Page Replacement Algorithms, Banker's Algorithm, and process management concepts.
 
 ### 📊 Crime Pattern Analysis Dashboard
-Interactive analytics dashboard with Python, Pandas, Plotly, and data visualization.
-
-### 🏨 Hostel Complaint Management System
-Multi-file C++ OOP application with authentication, complaint tracking, file persistence, and analytics.
+Python-based analytical dashboard with interactive visualizations, trend analysis, and exploratory data analysis.
 
 ### 🎵 Spotify Data Analysis Dashboard
-Analyzed 586,000+ Spotify tracks using Python to discover trends and visualize music insights.
+Analyzed 586,000+ Spotify tracks using Python to uncover listening trends and music insights.
+
+### 🤖 Titanic Survival Prediction
+Machine Learning project using Python and Scikit-Learn to predict passenger survival on the Titanic dataset.
+
+### 🏨 Hostel Complaint Management System
+Multi-file C++ OOP application with authentication, complaint tracking, analytics, and persistent storage.
 
 ---
 
@@ -81,10 +85,11 @@ Analyzed 586,000+ Spotify tracks using Python to discover trends and visualize m
 
 ## 🎯 Currently Working On
 
-- Complete Striver A2Z DSA Sheet
-- Java Search Engine
-- Machine Learning Projects
-- Open Source Contributions
+- ✅ Striver A2Z DSA Sheet
+- 🔍 Java Search Engine
+- 🤖 AI & Machine Learning
+- 📊 Data Analytics Projects
+- 🌍 Open Source Contributions
 
 ---
 
