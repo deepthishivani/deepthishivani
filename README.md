@@ -19,8 +19,9 @@ I'm passionate about **Java, Python, C, C++, Data Structures & Algorithms, Opera
 
 ## Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/deepthishivani)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepthishivani@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepthishivani)
+
+**Email:** **deepthishivani@gmail.com**
 
 ## Tech Stack
 
@@ -51,3 +52,4 @@ I'm passionate about **Java, Python, C, C++, Data Structures & Algorithms, Opera
 | [Hostel-CMS-CPP](https://github.com/deepthishivani/Hostel-CMS-CPP) | C++ | Role-based hostel complaint management system |
 | [Search-Engine](https://github.com/deepthishivani/search-engine) | Java | Information retrieval with indexing |
 | [Crime-Pattern-Analysis-Dashboard](https://github.com/deepthishivani/Crime-Pattern-Analysis-Dashboard) | Python | Crime pattern visualization and analytics |
+
